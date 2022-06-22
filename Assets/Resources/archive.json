@@ -1,0 +1,702 @@
+[
+   {
+      "id":"00005",
+      "title":"Porträt Luise Schulz",
+      "artist":{
+         "name":"Franz Seraph von Stirnbrand",
+         "yearOfBirth":1788,
+         "yearOfDeath":1882,
+         "placeOfDeat":"Stuttgart"
+      },
+      "painting":{
+         "year":"1838",
+         "technique":"Öl auf Leinwand",
+         "dimension":"77 x 59 cm"
+      },
+      "person":{
+         "name":"Luise Schulz",
+         "yearOfBirth":1787,
+         "yearOfDeath":1865,
+         "placeOfBirth":"Pleidelsheim",
+         "placeOfDeath":"",
+         "placeOfLiving":"Stuttgart",
+         "street":"Stuttgart Königstr. 47"
+      },
+      "hasVR":false
+   },
+   {
+      "id":"00006",
+      "title":"Porträt einer Frau aus der Familie Schulz/Eckhardt",
+      "artist":{
+         "name":"Franz Seraph von Stirnbrand",
+         "yearOfBirth":1788,
+         "yearOfDeath":1882,
+         "placeOfDeat":"Stuttgart"
+      },
+      "painting":{
+         "year":"1838",
+         "technique":"Öl auf Leinwand",
+         "dimension":"80 x 60 cm"
+      },
+      "person":{
+         "name":"eine Frau aus der Familie Schulz/Eckhardt",
+         "yearOfBirth":null,
+         "yearOfDeath":null,
+         "placeOfBirth":"",
+         "placeOfDeath":"",
+         "placeOfLiving":"",
+         "street":""
+      },
+      "hasVR":false
+   },
+   {
+      "id":"00025",
+      "title":"Porträt Eduard Föhr",
+      "artist":{
+         "name":"Franz Seraph von Stirnbrand",
+         "yearOfBirth":1788,
+         "yearOfDeath":1882,
+         "placeOfDeat":"Stuttgart"
+      },
+      "painting":{
+         "year":"um 1877",
+         "technique":"Öl auf Leinwand",
+         "dimension":"71 x 57 cm"
+      },
+      "person":{
+         "name":"Eduard Föhr",
+         "yearOfBirth":1835,
+         "yearOfDeath":1904,
+         "placeOfBirth":"Stuttgart",
+         "placeOfDeath":"Stuttgart",
+         "placeOfLiving":"Stuttgart",
+         "street":"Stuttgart Untere Olgastr. 34 (Wohnhaus); Königstr. 25 (Geschäft)"
+      },
+      "hasVR":false
+   },
+   {
+      "id":"00034",
+      "title":"Porträt einer Frau",
+      "artist":{
+         "name":"Franz Seraph von Stirnbrand",
+         "yearOfBirth":1788,
+         "yearOfDeath":1882,
+         "placeOfDeat":"Stuttgart"
+      },
+      "painting":{
+         "year":"1826",
+         "technique":"Öl auf Leinwand",
+         "dimension":"62  x 52 cm"
+      },
+      "person":{
+         "name":"eine Frau",
+         "yearOfBirth":null,
+         "yearOfDeath":null,
+         "placeOfBirth":"",
+         "placeOfDeath":"",
+         "placeOfLiving":"",
+         "street":""
+      },
+      "hasVR":false
+   },
+   {
+      "id":"00041",
+      "title":"Porträt Felix Friedrich Gustav Schulz",
+      "artist":{
+         "name":"Franz Seraph von Stirnbrand",
+         "yearOfBirth":1788,
+         "yearOfDeath":1882,
+         "placeOfDeat":"Stuttgart"
+      },
+      "painting":{
+         "year":"1834",
+         "technique":"Öl auf Leinwand",
+         "dimension":"100 x 88 cm"
+      },
+      "person":{
+         "name":"Felix Friedrich Gustav Schulz",
+         "yearOfBirth":1786,
+         "yearOfDeath":1859,
+         "placeOfBirth":"Stuttgart",
+         "placeOfDeath":"Stuttgart",
+         "placeOfLiving":"Stuttgart",
+         "street":"Stuttgart Königstr. 47"
+      },
+      "hasVR":false
+   },
+   {
+      "id":"00045",
+      "title":"Porträt Friederike Schulz",
+      "artist":{
+         "name":"Franz Seraph von Stirnbrand",
+         "yearOfBirth":1788,
+         "yearOfDeath":1882,
+         "placeOfDeat":"Stuttgart"
+      },
+      "painting":{
+         "year":"1838",
+         "technique":"Öl auf Leinwand",
+         "dimension":"73 x 57 cm"
+      },
+      "person":{
+         "name":"Friederike Schulz",
+         "yearOfBirth":1797,
+         "yearOfDeath":1879,
+         "placeOfBirth":"",
+         "placeOfDeath":"",
+         "placeOfLiving":"Stuttgart",
+         "street":"Stuttgart Alleenstr. 6"
+      },
+      "hasVR":false
+   },
+   {
+      "id":"00047",
+      "title":"Portät König Maximilian II. von Bayern",
+      "artist":{
+         "name":"Franz Seraph von Stirnbrand",
+         "yearOfBirth":1788,
+         "yearOfDeath":1882,
+         "placeOfDeat":"Stuttgart"
+      },
+      "painting":{
+         "year":"1860",
+         "technique":"Öl auf Leinwand",
+         "dimension":"72 x 57 cm"
+      },
+      "person":{
+         "name":"König Maximilian II. von Bayern",
+         "yearOfBirth":1811,
+         "yearOfDeath":1864,
+         "placeOfBirth":"München",
+         "placeOfDeath":" München",
+         "placeOfLiving":"München",
+         "street":""
+      },
+      "hasVR":false
+   },
+   {
+      "id":"00993",
+      "title":"Portät Julie Hartmann",
+      "artist":{
+         "name":"Franz Seraph von Stirnbrand",
+         "yearOfBirth":1788,
+         "yearOfDeath":1882,
+         "placeOfDeat":"Stuttgart"
+      },
+      "painting":{
+         "year":"um 1840",
+         "technique":"Öl auf Pappe",
+         "dimension":"28 x 24 cm (oval)"
+      },
+      "person":{
+         "name":"Julie Hartmann",
+         "yearOfBirth":1795,
+         "yearOfDeath":1869,
+         "placeOfBirth":"Stuttgart",
+         "placeOfDeath":"",
+         "placeOfLiving":"Stuttgart",
+         "street":""
+      },
+      "hasVR":false
+   },
+   {
+      "id":"01015",
+      "title":"Porträt Königin Pauline von Württemberg",
+      "artist":{
+         "name":"Franz Seraph von Stirnbrand",
+         "yearOfBirth":1788,
+         "yearOfDeath":1882,
+         "placeOfDeat":"Stuttgart"
+      },
+      "painting":{
+         "year":"1822",
+         "technique":"Öl auf Leinwand",
+         "dimension":"70 x 55 cm"
+      },
+      "person":{
+         "name":"Königin Pauline von Württemberg",
+         "yearOfBirth":1800,
+         "yearOfDeath":1873,
+         "placeOfBirth":"Riga",
+         "placeOfDeath":"Stuttgart",
+         "placeOfLiving":"Stuttgart; Friedrichshafen",
+         "street":""
+      },
+      "hasVR":false
+   },
+   {
+      "id":"01048",
+      "title":"Porträt Oberstleutnant Richard von Weißenstein",
+      "artist":{
+         "name":"Franz Seraph von Stirnbrand",
+         "yearOfBirth":1788,
+         "yearOfDeath":1882,
+         "placeOfDeat":"Stuttgart"
+      },
+      "painting":{
+         "year":"1844",
+         "technique":"Öl auf Leinwand",
+         "dimension":"43 x 33 cm"
+      },
+      "person":{
+         "name":"Oberstleutnant Richard von Weißenstein",
+         "yearOfBirth":1796,
+         "yearOfDeath":1856,
+         "placeOfBirth":"Elberfeld",
+         "placeOfDeath":"Stuttgart",
+         "placeOfLiving":"Stuttgart",
+         "street":"Stuttgart Hospitalstr. 4; später Gymnasiumstr. 53"
+      },
+      "hasVR":false
+   },
+   {
+      "id":"01187",
+      "title":"Porträt Fräulein Hering",
+      "artist":{
+         "name":"Franz Seraph von Stirnbrand",
+         "yearOfBirth":1788,
+         "yearOfDeath":1882,
+         "placeOfDeat":"Stuttgart"
+      },
+      "painting":{
+         "year":"1834",
+         "technique":"Öl auf Pappe",
+         "dimension":"25 x 21  cm"
+      },
+      "person":{
+         "name":"Fräulein Hering",
+         "yearOfBirth":null,
+         "yearOfDeath":null,
+         "placeOfBirth":"",
+         "placeOfDeath":"",
+         "placeOfLiving":"Esslingen",
+         "street":""
+      },
+      "hasVR":false
+   },
+   {
+      "id":"01381",
+      "title":"Porträt Mariette Zöppritz",
+      "artist":{
+         "name":"Franz Seraph von Stirnbrand",
+         "yearOfBirth":1788,
+         "yearOfDeath":1882,
+         "placeOfDeat":"Stuttgart"
+      },
+      "painting":{
+         "year":"1872",
+         "technique":"Öl auf Leinwand",
+         "dimension":"58 x 49 cm"
+      },
+      "person":{
+         "name":"Mariette Zöppritz",
+         "yearOfBirth":1802,
+         "yearOfDeath":1874,
+         "placeOfBirth":"Stuttgart",
+         "placeOfDeath":"Stuttgart",
+         "placeOfLiving":"Stuttgart",
+         "street":"Stuttgart Friedrichstr. 14/1"
+      },
+      "hasVR":false
+   },
+   {
+      "id":"02269",
+      "title":"Porträt Johann Friedrich Dürrich",
+      "artist":{
+         "name":"Franz Seraph von Stirnbrand",
+         "yearOfBirth":1788,
+         "yearOfDeath":1882,
+         "placeOfDeat":"Stuttgart"
+      },
+      "painting":{
+         "year":"um 1850",
+         "technique":"Öl auf Leinwand",
+         "dimension":"49 x 38 cm"
+      },
+      "person":{
+         "name":"Johann Friedrich Dürrich",
+         "yearOfBirth":1798,
+         "yearOfDeath":1879,
+         "placeOfBirth":"Stuttgart",
+         "placeOfDeath":"Stuttgart",
+         "placeOfLiving":"Stuttgart",
+         "street":"Stuttgart Königstr. 64"
+      },
+      "hasVR":false
+   },
+   {
+      "id":"02400",
+      "title":"Porträt August Friedrich Kuhn",
+      "artist":{
+         "name":"Franz Seraph von Stirnbrand",
+         "yearOfBirth":1788,
+         "yearOfDeath":1882,
+         "placeOfDeat":"Stuttgart"
+      },
+      "painting":{
+         "year":"um 1842",
+         "technique":"Öl auf Leinwand",
+         "dimension":"100 x 82 cm"
+      },
+      "person":{
+         "name":"August Friedrich Kuhn",
+         "yearOfBirth":1802,
+         "yearOfDeath":1847,
+         "placeOfBirth":"Stuttgart",
+         "placeOfDeath":"",
+         "placeOfLiving":"Stuttgart",
+         "street":"Stuttgart Königstr. 27 A; später Königstr. 15"
+      },
+      "hasVR":false
+   },
+   {
+      "id":"02401",
+      "title":"Porträt Emilie Kuhn",
+      "artist":{
+         "name":"Franz Seraph von Stirnbrand",
+         "yearOfBirth":1788,
+         "yearOfDeath":1882,
+         "placeOfDeat":"Stuttgart"
+      },
+      "painting":{
+         "year":"um 1842",
+         "technique":"Öl auf Leinwand",
+         "dimension":"100 x 82 cm"
+      },
+      "person":{
+         "name":"Emilie Kuhn",
+         "yearOfBirth":1803,
+         "yearOfDeath":1877,
+         "placeOfBirth":"",
+         "placeOfDeath":"",
+         "placeOfLiving":"Stuttgart",
+         "street":"Stuttgart Königstr. 27 A; später Königstr. 15"
+      },
+      "hasVR":false
+   },
+   {
+      "id":"02553",
+      "title":"Porträt Julie Duvernoy",
+      "artist":{
+         "name":"Franz Seraph von Stirnbrand",
+         "yearOfBirth":1788,
+         "yearOfDeath":1882,
+         "placeOfDeat":"Stuttgart"
+      },
+      "painting":{
+         "year":"um 1849",
+         "technique":"Öl auf Leinwand",
+         "dimension":"98 x 74 cm"
+      },
+      "person":{
+         "name":"Julie Duvernoy",
+         "yearOfBirth":1828,
+         "yearOfDeath":1853,
+         "placeOfBirth":"",
+         "placeOfDeath":"",
+         "placeOfLiving":"Stuttgart",
+         "street":"Stuttgart Friedrichstr. 24"
+      },
+      "hasVR":false
+   },
+   {
+      "id":"02837",
+      "title":"Porträt Emilie Kuhn",
+      "artist":{
+         "name":"Franz Seraph von Stirnbrand",
+         "yearOfBirth":1788,
+         "yearOfDeath":1882,
+         "placeOfDeat":"Stuttgart"
+      },
+      "painting":{
+         "year":"1849",
+         "technique":"Öl auf Leinwand",
+         "dimension":"101 x 83 cm"
+      },
+      "person":{
+         "name":"Emilie Kuhn",
+         "yearOfBirth":1830,
+         "yearOfDeath":1914,
+         "placeOfBirth":"",
+         "placeOfDeath":"",
+         "placeOfLiving":"Stuttgart",
+         "street":"Stuttgart Königstr. 15"
+      },
+      "hasVR":false
+   },
+   {
+      "id":"03180",
+      "title":"Porträt König Wilhelm I. von Württemberg",
+      "artist":{
+         "name":"Franz Seraph von Stirnbrand",
+         "yearOfBirth":1788,
+         "yearOfDeath":1882,
+         "placeOfDeat":"Stuttgart"
+      },
+      "painting":{
+         "year":"1859",
+         "technique":"Öl auf Papier",
+         "dimension":"22 x 18 cm"
+      },
+      "person":{
+         "name":"König Wilhelm I. von Württemberg",
+         "yearOfBirth":1781,
+         "yearOfDeath":1864,
+         "placeOfBirth":"Lüben (Schlesien )",
+         "placeOfDeath":"Cannstatt",
+         "placeOfLiving":"Stuttgart; Cannstatt",
+         "street":""
+      },
+      "hasVR":false
+   },
+   {
+      "id":"03181",
+      "title":"Porträt König Karl von Württemberg als Kronprinz",
+      "artist":{
+         "name":"Franz Seraph von Stirnbrand",
+         "yearOfBirth":1788,
+         "yearOfDeath":1882,
+         "placeOfDeat":"Stuttgart"
+      },
+      "painting":{
+         "year":"um 1845",
+         "technique":"Öl auf Blech",
+         "dimension":"29 x 24 cm"
+      },
+      "person":{
+         "name":"König Karl von Württemberg als Kronprinz",
+         "yearOfBirth":1823,
+         "yearOfDeath":1891,
+         "placeOfBirth":"Stuttgart",
+         "placeOfDeath":"",
+         "placeOfLiving":"Stuttgart; Berg",
+         "street":""
+      },
+      "hasVR":false
+   },
+   {
+      "id":"03182",
+      "title":"Portät Michael Knapp",
+      "artist":{
+         "name":"Franz Seraph von Stirnbrand",
+         "yearOfBirth":1788,
+         "yearOfDeath":1882,
+         "placeOfDeat":"Stuttgart"
+      },
+      "painting":{
+         "year":"um 1850",
+         "technique":"Öl auf Leinwand",
+         "dimension":"77 x 64 cm"
+      },
+      "person":{
+         "name":"Michael Knapp",
+         "yearOfBirth":1791,
+         "yearOfDeath":1861,
+         "placeOfBirth":"Stuttgart",
+         "placeOfDeath":"",
+         "placeOfLiving":"Stuttgart",
+         "street":"Stuttgart Königstraße 21"
+      },
+      "hasVR":false
+   },
+   {
+      "id":"03291",
+      "title":"Porträt Gustav Hartmann",
+      "artist":{
+         "name":"Franz Seraph von Stirnbrand",
+         "yearOfBirth":1788,
+         "yearOfDeath":1882,
+         "placeOfDeat":"Stuttgart"
+      },
+      "painting":{
+         "year":"um 1850",
+         "technique":"Öl auf Leinwand; auf Hartfaserplatte maronfliert",
+         "dimension":"71 x 55 cm"
+      },
+      "person":{
+         "name":"Gustav Hartmann",
+         "yearOfBirth":null,
+         "yearOfDeath":null,
+         "placeOfBirth":"",
+         "placeOfDeath":"",
+         "placeOfLiving":"",
+         "street":""
+      },
+      "hasVR":false
+   },
+   {
+      "id":"04235",
+      "title":"Porträt König Wilhelm I. von Württemberg",
+      "artist":{
+         "name":"Franz Seraph von Stirnbrand",
+         "yearOfBirth":1788,
+         "yearOfDeath":1882,
+         "placeOfDeat":"Stuttgart"
+      },
+      "painting":{
+         "year":"um 1841",
+         "technique":"Öl auf Leinwand",
+         "dimension":"192 x 106 cm"
+      },
+      "person":{
+         "name":"König Wilhelm I. von Württemberg",
+         "yearOfBirth":1781,
+         "yearOfDeath":1864,
+         "placeOfBirth":"Lüben (Schlesien )",
+         "placeOfDeath":"Cannstatt",
+         "placeOfLiving":"Stuttgart; Cannstatt",
+         "street":""
+      },
+      "hasVR":false
+   },
+   {
+      "id":"04236",
+      "title":"Porträt Königin Pauline von Württemberg",
+      "artist":{
+         "name":"Franz Seraph von Stirnbrand",
+         "yearOfBirth":1788,
+         "yearOfDeath":1882,
+         "placeOfDeat":"Stuttgart"
+      },
+      "painting":{
+         "year":"um 1841",
+         "technique":"Öl auf Leinwand",
+         "dimension":"192 x 106 cm"
+      },
+      "person":{
+         "name":"Porträt Königin Pauline von Württemberg",
+         "yearOfBirth":1800,
+         "yearOfDeath":1873,
+         "placeOfBirth":"Riga",
+         "placeOfDeath":"Stuttgart",
+         "placeOfLiving":"Stuttgart; Friedrichshafen",
+         "street":""
+      },
+      "hasVR":false
+   },
+   {
+      "id":"04529",
+      "title":"Porträt Königin Charlotte Auguste Mathilde von Württemberg als Wittwe",
+      "artist":{
+         "name":"Franz Seraph von Stirnbrand",
+         "yearOfBirth":1788,
+         "yearOfDeath":1882,
+         "placeOfDeat":"Stuttgart"
+      },
+      "painting":{
+         "year":"um 1827",
+         "technique":"Öl auf Leinwand",
+         "dimension":"25 x 21 cm"
+      },
+      "person":{
+         "name":"Königin Charlotte Auguste Mathilde von Württemberg als Wittwe",
+         "yearOfBirth":1766,
+         "yearOfDeath":1828,
+         "placeOfBirth":"London",
+         "placeOfDeath":"Ludwigsburg",
+         "placeOfLiving":"London; Stuttgart; Ludwigsburg",
+         "street":""
+      },
+      "hasVR":false
+   },
+   {
+      "id":"04984",
+      "title":"Porträt Johann Christian Glaser",
+      "artist":{
+         "name":"Franz Seraph von Stirnbrand",
+         "yearOfBirth":1788,
+         "yearOfDeath":1882,
+         "placeOfDeat":"Stuttgart"
+      },
+      "painting":{
+         "year":"1817",
+         "technique":"Öl auf Leinwand",
+         "dimension":"62 x 53 cm"
+      },
+      "person":{
+         "name":"Johann Christian Glaser",
+         "yearOfBirth":1793,
+         "yearOfDeath":1854,
+         "placeOfBirth":"",
+         "placeOfDeath":"Stuttgart",
+         "placeOfLiving":"Stuttgart",
+         "street":"Stuttgart Dorotheenstr. 2"
+      },
+      "hasVR":false
+   },
+   {
+      "id":"09204",
+      "title":"Porträt Emil Schill",
+      "artist":{
+         "name":"Franz Seraph von Stirnbrand",
+         "yearOfBirth":1788,
+         "yearOfDeath":1882,
+         "placeOfDeat":"Stuttgart"
+      },
+      "painting":{
+         "year":"1846",
+         "technique":"Öl auf Leinwand altdoubliert",
+         "dimension":"62 x 53 cm"
+      },
+      "person":{
+         "name":"Emil Schill",
+         "yearOfBirth":null,
+         "yearOfDeath":null,
+         "placeOfBirth":"",
+         "placeOfDeath":"",
+         "placeOfLiving":"",
+         "street":""
+      },
+      "hasVR":false
+   },
+   {
+      "id":"09205",
+      "title":"Porträt Charlotte Schnabel",
+      "artist":{
+         "name":"Franz Seraph von Stirnbrand",
+         "yearOfBirth":1788,
+         "yearOfDeath":1882,
+         "placeOfDeat":"Stuttgart"
+      },
+      "painting":{
+         "year":"1846",
+         "technique":"Öl auf Leinwand  altdoubliert",
+         "dimension":"62 x 53 cm"
+      },
+      "person":{
+         "name":"Charlotte Schnabel",
+         "yearOfBirth":null,
+         "yearOfDeath":null,
+         "placeOfBirth":"",
+         "placeOfDeath":"",
+         "placeOfLiving":"",
+         "street":""
+      },
+      "hasVR":false
+   },
+   {
+      "id":"10109",
+      "title":"Porträt Georg Zoeppritz",
+      "artist":{
+         "name":"Franz Seraph von Stirnbrand",
+         "yearOfBirth":1788,
+         "yearOfDeath":1882,
+         "placeOfDeat":"Stuttgart"
+      },
+      "painting":{
+         "year":"1872",
+         "technique":"Öl auf Leinwand",
+         "dimension":"60 x 51 cm"
+      },
+      "person":{
+         "name":"Georg Zoeppritz",
+         "yearOfBirth":1804,
+         "yearOfDeath":1892,
+         "placeOfBirth":"",
+         "placeOfDeath":"",
+         "placeOfLiving":"Stuttgart; Heidenheim",
+         "street":"Stuttgart Friedrichstr. 14/1"
+      },
+      "hasVR":false
+   }
+]
