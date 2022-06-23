@@ -49,29 +49,42 @@ Es ist generell darauf zu achten, dass die Nutzer nicht durch im Weg liegende Ob
 ### Galerie
 
 Nach Start der Anwendung und dem Aufsetzen der VR-Brille findet sich der Nutzer in der Galerie-Ansicht wieder.
-[Bild]
 
 In dieser Ansicht ist es möglich sich verschiedene Portraits anzusehen und die Galerie durch greifen und ziehen  nach links oder rechts zu bewegen.
 Hierfür ist es notwendig, dass der Nutzer zugreift, während er seine eigenen Hände sehen kann, seine Hand nach links oder rechts bewegt (abhängig von der gewünschten Bewegung) und den Griff wieder löst, während er weiterhin seine Hände sehen kann.
-[Video]
+
+https://user-images.githubusercontent.com/83219609/175284377-1317f81f-139a-46b5-a1c0-84c3ca6b9d46.mp4
+
+
 
 Um über das Gemälde, das durch den Rahmen an der Wand hervorgehoben ist, mehr zu erfahren, kann der Nutzer das Gemälde greifen und nach unten ziehen. Hierfür ist es notwendig, dass der Nutzer zugreift, während er seine eigenen Hände sehen kann, seine Hand nach unten bewegt und den Griff wieder löst, während er weiterhin seine Hände sehen kann.
-[Video]
+
+https://user-images.githubusercontent.com/83219609/175284424-fe880da6-1d04-453b-af43-b059301bbd90.mp4
+
+
 
 
 ### Detailansicht
 Nach der oben beschriebenen Aktion befindet der Nutzer sich in der Detailansicht des ausgewählten Gemäldes.
-[Bild]
 
 Um wieder zur Galerie zurück zu kehren, greift der Nutzer auf Höhe des 3-D Kopfes und zieht in wieder nach oben. Hierfür ist es notwendig, dass der Nutzer zugreift, während er seine eigenen Hände sehen kann, seine Hand nach unten bewegt und den Griff wieder löst, während er weiterhin seine Hände sehen kann.
-[Video]
+
+https://user-images.githubusercontent.com/83219609/175284461-2ff7d03f-d657-4c2f-b17f-4ec2f3da5672.mp4
+
+
 
 Neben dem 3D-Kopf wird weiterhin eine "Einladung" dargestellt. Ein Greifen dieser Einladung führt dazu, dass der Nutzer sich in der VR-Umgebung wieder findet.
-[Video]
+
+https://user-images.githubusercontent.com/83219609/175285241-789ac75f-a326-45e2-b885-6cde9d8a7a0f.mp4
+
+
 
 ### VR-Umgebung
 Nach dem Eintreten in die VR-Umgebung hat der Nutzer weiterhin die Einladung in der Hand und ist in der Lage seine neue Umgebung zu erkunden. Um die VR-Umgebung zu verlassen kann der Nutzer die Einladung in eine Briefbox auf dem VR-Schreibtisch platzieren, um die VR-Umgebung zu verlassen und zur Detailansicht zurück zu kehren.
-[Video]
+
+https://user-images.githubusercontent.com/83219609/175284935-06703918-4a2c-48c2-afbe-cbca11ca806d.mp4
+
+
 
 ## Weiterentwicklungsmöglichkeiten
 ### Unabhängigkeit vom Datenset
