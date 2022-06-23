@@ -111,7 +111,7 @@ Dieses Projekt wurde von Anna-Lena Niethammer entwickelt.
 
 Dabei wurde ich zum einen vom Personal des Stadtarchivs Stuttgart unterstützt, die als Datengeber des Datensets  [**#SchauMichAn - Franz Seraph Stirnbrand (um 1788-1882) und seine Porträts der Stuttgarter Gesellschaft**](https://codingdavinci.de/daten/schaumichan-franz-seraph-stirnbrand-um-1788-1882-und-seine-portraets-der-stuttgarter) und Berater bei Fragen bezüglich des Datensets fungiert haben.
 
-Zum anderen wurde ich beraten und unterstützt vom Fachbereich Mensch-Computer-Interaktion der Universität Konstanz, die mir zusätzlich auch die Hardware und Räumlichkeiten zur Entwicklung des Prototypen zur Verfügung gestellt haben.
+Zum anderen wurde ich beraten und unterstützt vom Fachbereich Mensch-Computer-Interaktion der Universität Konstanz, namentlich [Professor Harald Reiterer](https://hci.uni-konstanz.de/members/reiterer/) und [Jonathan Wieland](https://hci.uni-konstanz.de/members/research-assistants/jonathan-wieland/), die mir zusätzlich auch die Hardware und Räumlichkeiten zur Entwicklung des Prototypen zur Verfügung gestellt haben.
 
 ## License
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://github.com/Anna-Lena-Niethammer/Coding-da-Vinci-Hackathon---Hinter-dem-Rahmen/blob/main/LICENSE)
